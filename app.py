@@ -88,7 +88,7 @@ elif menu == "Skills":
     st.write("These are the technologies and tools I'm proficient in:")
     
     skills = [
-        "Python", "Streamlit", "Machine Learning", "SQL"
+        "Python", "Streamlit", "Machine Learning", "SQL",
         "Deep Learning", "MLFlow","MLOps","Story Telling"
     ]
     
